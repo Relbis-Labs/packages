@@ -1,0 +1,10 @@
+{
+    "extract_dir": "MqttClient",
+    "bin": [
+        [ "MqttClient.exe", "MqttClient", "" ]
+    ],
+    "license": "MIT",
+    "hash": "2a9b022ead68d3eec06364193d92a236aa06669918cd685dfab22f7e391b1706",
+    "version": "0.1.0.2",
+    "url": "https://github.com/user-attachments/files/18992824/MqttClient_0.1.0.2.zip"
+}
